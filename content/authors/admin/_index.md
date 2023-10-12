@@ -48,9 +48,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/y2663liu
-  - icon: instagram
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/mark-liu-02630b1b6/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
