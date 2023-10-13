@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Notes
+summary: Simplified version of Notes App
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - A
+date: 2022-04
+external_link: https://github.com/y2663liu/CS349-User-Interfaces/tree/main/a4/a4-basic
 ---

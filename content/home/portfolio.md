@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Android
+      tag: A
     - name: C++
       tag: CPP
     - name: Machine Learning
       tag: ML
-    - name: NLP
-      tag: NLP
 
 design:
   columns: '1'
