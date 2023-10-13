@@ -32,6 +32,8 @@ content:
       tag: A
     - name: C++
       tag: CPP
+    - name: Forecasting
+      tag: F
     - name: Machine Learning
       tag: ML
 
