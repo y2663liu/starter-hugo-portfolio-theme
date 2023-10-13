@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: C++
-      tag: Cpp
+      tag: CPP
     - name: Computer Vision
       tag: CV
     - name: NLP
