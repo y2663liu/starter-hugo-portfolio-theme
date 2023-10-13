@@ -51,6 +51,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mark-liu-02630b1b6/
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1ehQsJwfGeoI9knGthZEbqJk2xtACVJzl/view?usp=drive_link
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
