@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Catan
+summary: Simplified version of Catan board game
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - CPP
+date: 2020-12
+external_link: https://github.com/y2663liu/Catan
 ---
