@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: C++
       tag: CPP
-    - name: Computer Vision
-      tag: CV
+    - name: Machine Learning
+      tag: ML
     - name: NLP
       tag: NLP
 
