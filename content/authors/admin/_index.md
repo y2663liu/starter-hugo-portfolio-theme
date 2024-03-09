@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mark Liu (刘亦凡)
+title: Yifan Liu (刘亦凡)
 
 # Is this the primary user of the site?
 superuser: true
