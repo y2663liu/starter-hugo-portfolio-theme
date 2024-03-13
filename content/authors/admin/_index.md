@@ -50,7 +50,7 @@ social:
     link: https://github.com/y2663liu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mark-liu-02630b1b6/
+    link: www.linkedin.com/in/yifan-liu-02630b1b6
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1GMpmsuj5_FGOejwjfAybvtv4oCpe9Etn/view
