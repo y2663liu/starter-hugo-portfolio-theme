@@ -53,7 +53,7 @@ social:
     link: https://www.linkedin.com/in/yifan-liu-02630b1b6/
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1GMpmsuj5_FGOejwjfAybvtv4oCpe9Etn/view
+    link: https://drive.google.com/file/d/1DOQeA9AEU245T8XkLAm96JRl8EFSOVkS/view
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
