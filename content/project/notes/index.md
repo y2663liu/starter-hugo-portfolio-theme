@@ -1,6 +1,6 @@
 ---
 title: Notes
-summary: Simplified version of Notes App
+summary: An Android notes app prototype focused on core note creation, editing, and organization flows.
 tags:
   - A
 date: 2022-04

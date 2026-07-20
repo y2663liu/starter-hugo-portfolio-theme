@@ -1,6 +1,6 @@
 ---
 title: UW 2023F STAT441 Kaggle Competition
-summary: Classify how accurately a given residue matches its counterpart in the native structure of the protein
+summary: A machine learning pipeline for evaluating how well protein residues match their native-structure counterparts.
 tags:
   - ML
 date: 2023-12

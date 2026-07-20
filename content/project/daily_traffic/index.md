@@ -1,6 +1,6 @@
 ---
 title: Daily traffic in one Junction Analysis
-summary: Analyze how the traffic condition has been changed on a daily basis and predict how it will be like in the future
+summary: A forecasting analysis of daily junction traffic patterns, combining trend exploration with future-volume prediction.
 tags:
   - ML
 date: 2022-12

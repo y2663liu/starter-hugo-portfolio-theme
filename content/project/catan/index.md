@@ -1,6 +1,6 @@
 ---
 title: Catan
-summary: Simplified version of Catan board game
+summary: A C++ implementation of the Catan board game.
 tags:
   - CPP
 date: 2020-12

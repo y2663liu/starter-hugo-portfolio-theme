@@ -1,6 +1,6 @@
 ---
 title: Handwriting Feature Recognition Annotation Tool
-summary: Online tool to annotate handwritten symbols to accelerate deep learning models' data preparation process.
+summary: A web annotation tool for labeling handwritten symbols and streamlining deep learning dataset preparation.
 tags:
   - ML
 date: 2023-12

@@ -1,6 +1,6 @@
 ---
 title: UW 2022F CS480 Kaggle Competition
-summary: Predict the final score of computer games developed over a weekend and entered in the Ludum Dare competition
+summary: A machine learning project that predicts Ludum Dare game scores from competition and game metadata.
 tags:
   - ML
 date: 2022-12
